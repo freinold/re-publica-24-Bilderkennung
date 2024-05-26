@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Car', 'Flower', 'Tree']
+
+roboflow:
+  workspace: itm-innovationlab
+  project: mini-muenchen
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/itm-innovationlab/mini-muenchen/dataset/1
