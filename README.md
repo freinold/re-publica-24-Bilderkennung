@@ -4,7 +4,7 @@
 Teil 1 des Workshop mit der Präsentation zu den Grundlagen von KI findet ihr [hier](workshop.pdf)
 
 ## Teachable Machine
-Teil 2 mit der praktischen Übung ist in der Präsentation erklärt, ein fertiges Projekt mit einigen Bilder für [Teachable Machine]() findet ihr [hier](kategorisierung.tm)
+Teil 2 mit der praktischen Übung ist in der Präsentation erklärt, ein fertiges Projekt mit einigen Bilder für [Teachable Machine](https://teachablemachine.withgoogle.com/) findet ihr [hier](kategorisierung.tm)
 
 ## Coding in Python
 Teil 3 des Workshop gibt es entweder [mit Lücken](workshop.ipynb) oder [ausgefüllt](workshop_full.ipynb).
